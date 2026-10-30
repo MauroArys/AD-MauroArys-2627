@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\ProjectAD_MauroArys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\bookinginputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\bookinginputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roomdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roomdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\bookingmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\bookingmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roomqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roomqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roominputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roominputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|c:\\dev\\projectad_mauroarys\\dtos\\roomquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92A77A8-9334-1196-36D4-CB74D36EB207}|ProjectAD_MauroArys.csproj|solutionrelative:dtos\\roomquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\app.http",
+              "RelativeDocumentMoniker": "app.http",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\app.http",
+              "RelativeToolTip": "app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-30T13:51:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:34:26.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:51:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:37:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IUserRepository.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:32:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:33:15.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:29:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingInputDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingInputDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingInputDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingInputDto.cs",
+              "RelativeToolTip": "Dtos\\BookingInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:44:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingDto.cs",
+              "RelativeToolTip": "Dtos\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:44:44.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "Model\\Booking.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Model\\Booking.cs",
+              "RelativeToolTip": "Model\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:41:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:25:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T13:38:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:36:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TokenDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\TokenDto.cs",
+              "RelativeToolTip": "Dtos\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:31:25.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:30:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:30:21.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswGcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:45:39.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:53:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRoomRepository.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\IRoomRepository.cs",
+              "RelativeToolTip": "Data\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:41:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Data\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RoomRepository.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Data\\RoomRepository.cs",
+              "RelativeToolTip": "Data\\RoomRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:05:19.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:44:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoomService.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Services\\IRoomService.cs",
+              "RelativeToolTip": "Services\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:45:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:53:58.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Model\\Room.cs",
+              "RelativeDocumentMoniker": "Model\\Room.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Model\\Room.cs",
+              "RelativeToolTip": "Model\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:39:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomMappings.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomMappings.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomMappings.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomMappings.cs",
+              "RelativeToolTip": "Dtos\\RoomMappings.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:14:27.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomDetailDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomDetailDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomDetailDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomDetailDto.cs",
+              "RelativeToolTip": "Dtos\\RoomDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:00:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingMappings.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingMappings.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingMappings.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\BookingMappings.cs",
+              "RelativeToolTip": "Dtos\\BookingMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:45:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomQueryExtensions.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomQueryExtensions.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomQueryExtensions.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomQueryExtensions.cs",
+              "RelativeToolTip": "Dtos\\RoomQueryExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:17:12.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomInputDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomInputDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomInputDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomInputDto.cs",
+              "RelativeToolTip": "Dtos\\RoomInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:12:57.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomDto.cs",
+              "RelativeToolTip": "Dtos\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:13:40.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoomQueryDto.cs",
+              "DocumentMoniker": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomQueryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoomQueryDto.cs",
+              "ToolTip": "C:\\dev\\ProjectAD_MauroArys\\Dtos\\RoomQueryDto.cs",
+              "RelativeToolTip": "Dtos\\RoomQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:16:34.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

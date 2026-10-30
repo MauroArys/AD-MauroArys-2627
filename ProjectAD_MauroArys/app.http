@@ -1,0 +1,42 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@host = https://localhost:7184
+
+### 1. Registreren
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+  "username": "mauro2",
+  "password": "geheim123"
+}
+
+### 2. Inloggen
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+  "username": "mauro",
+  "password": "geheim123"
+}
+
+### 3. Alle rooms ophalen
+GET {{host}}/rooms
+
+### 4. Bookings van een room ophalen
+GET {{host}}/rooms/1/bookings
+
+### 5. Nieuwe booking maken (token nodig)
+POST {{host}}/rooms/1/bookings
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWF1cm8iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwiZXhwIjoxNzkzMzcyMDE3LCJpc3MiOiJNb3ZpZUFwaSIsImF1ZCI6Ik1vdmllQXBpVXNlcnMifQ.E5DyDvfYaoinXzVsUFxy1Yl1aST3cBfJVsro3Nzk2I0
+
+{
+  "title": "Teamoverleg",
+  "startTime": "2026-03-02T09:00:00",
+  "endTime": "2026-03-02T10:00:00",
+  "BookedBy": "mauro"
+}
+
+### 6. Booking verwijderen (token nodig)
+DELETE {{host}}/rooms/1/bookings/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWF1cm8iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwiZXhwIjoxNzkzMzcyMDE3LCJpc3MiOiJNb3ZpZUFwaSIsImF1ZCI6Ik1vdmllQXBpVXNlcnMifQ.E5DyDvfYaoinXzVsUFxy1Yl1aST3cBfJVsro3Nzk2I0
