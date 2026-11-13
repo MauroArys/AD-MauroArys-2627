@@ -29,7 +29,7 @@ namespace ProjectAD_MauroArys.Services
 
         public async Task<RoomDto?> CreateAsync(RoomInputDto dto)
         {
-            // Geen ExistsByNameAsync in jouw repository → verwijderen
+           
             var room = dto.ToEntity();
             await _repository.AddAsync(room);
             return room.ToDto();
